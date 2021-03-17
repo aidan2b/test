@@ -10,4 +10,4 @@ You are in the present, live consciously.
 
 ## Development Notes
 
-Open up your browser.
+Practice everyday.
