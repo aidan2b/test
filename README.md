@@ -7,3 +7,7 @@ Hello.
 I've been waiting for this moment to tell you everything.
 
 You are in the present, live consciously.
+
+## Development Notes
+
+Open up your browser.
